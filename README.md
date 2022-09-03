@@ -1,5 +1,5 @@
 ## Hello World! 👋 Welcome to my Github!!
-### My name is Yasmim, I am a professional in career transition, currently I work as a commercial agent in a financial institution, I hava CPA 20 certification and I am studying Systems Analysis and Development at Senac SP.
+ My name is Yasmim, I am a professional in career transition, currently I work as a commercial agent in a financial institution, I hava CPA 20 certification and I am studying Systems Analysis and Development at Senac SP.
 
 <!--
 **yasmimfreitas/yasmimfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
