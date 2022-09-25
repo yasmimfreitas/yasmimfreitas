@@ -1,11 +1,14 @@
 ## Hello World! 👋 Welcome to my Github!!
  My name is Yasmim, I am a professional in career transition, currently I work as a commercial agent in a financial institution, I hava CPA 20 certification and I am studying Systems Analysis and Development at Senac SP.
+ 
+ </div>
+      <img src="https://komarev.com/ghpvc/?username=mardoqueu&style=flat-square&color=blue" alt=""/>
+</div>
 
 <div>
 <a href="https://github.com/yasmimfreitas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimfreitas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 
 ## Technologies:
 
@@ -22,6 +25,7 @@
 <a href = "mailto:yasmimsantosfreitas33@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yasmim-freitas-58698921b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 ## Me working on the project:
 
