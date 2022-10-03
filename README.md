@@ -1,5 +1,5 @@
 ## Hello World! 👋 Welcome to my Github!!
- My name is Yasmim, I am a professional in career transition, currently I work as a commercial agent in a financial institution, I hava CPA 20 certification and I am studying Systems Analysis and Development at Senac SP.
+ My name is Yasmim, I'm a junior professional, currently I'm working at F1rst Tecnologia Santander Brasil, where I've been developing my skills, I have CPA 20 certification and I'm studying Systems Analysis and Development at Senac SP.
  
  </div>
       <img src="https://komarev.com/ghpvc/?username=mardoqueu&style=flat-square&color=blue" alt=""/>
