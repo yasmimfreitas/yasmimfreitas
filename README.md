@@ -1,4 +1,4 @@
-## Hello World! 👋 Welcome to my Github!!
+## Hello World! 👋 Welcome to my GitHub!!
     I'm a junior professional, currently I'm working at F1rst Tecnologia Santander Brasil, where I've been developing my skills, I have CPA 20 certification and I'm studying Systems Analysis and Development at Senac SP.
  
  </div>
